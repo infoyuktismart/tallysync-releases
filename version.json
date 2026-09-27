@@ -1,7 +1,9 @@
 {
   "product": "TallySync Pro",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "releaseDate": "2026-09-27",
-  "changelog": "• Fix: Permitted Cloudflare Tunnel & remote access URLs in CORS security policy\n• Fix: Automated background service shutdown during installer updates\n• Proportional Net Amount & GST calculation across multi-item vouchers\n• Alteredon & Alteredby tracking exclusively for modified vouchers",
-  "downloadUrl": "https://github.com/infoyuktismart/tallysync-releases/releases/latest"
+  "changelog": "• Enterprise 1-Click Silent Auto-Update directly inside dashboard\n• Live streaming download progress bar with ETA & speed tracking\n• Automatic background installation via Inno Setup with graceful service restart\n• V8 Bytecode compilation (.jsc) protecting proprietary backend source\n• Permitted Cloudflare Tunnel & remote access URLs in CORS security policy",
+  "downloadUrl": "https://github.com/infoyuktismart/tallysync-releases/releases/latest",
+  "installerUrl": "https://github.com/infoyuktismart/tallysync-releases/releases/download/v1.1.2/TallySyncPro-Setup-1.1.2-x64.exe",
+  "sha256": "a6f8565b22fae75ffee0c12c56d3847b852145af7a4cb647cee842ac078d57b4"
 }
