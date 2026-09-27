@@ -1,7 +1,7 @@
 {
   "product": "TallySync Pro",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "releaseDate": "2026-09-27",
-  "changelog": "• Proportional Net Amount & GST calculation across multi-item vouchers\n• Alteredon & Alteredby tracking exclusively for modified vouchers\n• Genuine Windows Desktop & Start Menu shortcuts with direct browser launch\n• Admin password protection and security setup\n• Zero-TDL Real-time TallyPrime to Google Sheets Sync Engine",
+  "changelog": "• Fix: Permitted Cloudflare Tunnel & remote access URLs in CORS security policy\n• Fix: Automated background service shutdown during installer updates\n• Proportional Net Amount & GST calculation across multi-item vouchers\n• Alteredon & Alteredby tracking exclusively for modified vouchers",
   "downloadUrl": "https://github.com/infoyuktismart/tallysync-releases/releases/latest"
 }
